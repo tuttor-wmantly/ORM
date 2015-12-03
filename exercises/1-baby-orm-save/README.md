@@ -38,7 +38,7 @@ hasattr()
 __name__
 type(self)
 __dict__
-vars
+vars()
 **kwargs
 ```
 Map this out before starting. Plan for what you need to solve this.
