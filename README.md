@@ -1,8 +1,8 @@
-
-Week 4 Day 2
+Week 4 Day 1
 ============
 
-Today we continue building our own ORM and actually put it to use. When you get tired and need a break, there is another Unix assignment that won't brain-hurt you as much. Don't give up. ORMs are difficult at first, but essential to understand.
+This week we start to deal in larger abstractions. You will be creating your own [Object Relational Mapper](http://en.wikipedia.org/wiki/Object-relational_mapping), and learning some more Unix.
+
 
 #### Read this tonight
 We'll be starting on Django's ORM tomorrow, so start getting acquainted with it's syntax and structure. You should see some similarities in your ORM as you read through it.  
